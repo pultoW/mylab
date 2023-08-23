@@ -21,3 +21,23 @@
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: doi:10.1109/INFOCOM42981.2021.9488705
+  title: An Incentive Mechanism for Cross-Silo Federated Learning: A Public Goods Perspective
+  authors:
+  - Ming Tang
+  - Vincent WS Wong
+  publisher: IEEE International Conference on Computer Communications (INFOCOM)
+  date: '2021/5'
+  link: http://mingtang.site/paper/INFOCOM2021.pdf
+  image: 
+  repo: https://github.com/broadinstitute/profiling-resistance-mechanisms
+  tags:
+  - federated learning
+  - incentive mechanism
+  - game theory
+  - public goods
+  - resource allocation
+  plugin: orcid.py
+  file: orcid.yaml
+
