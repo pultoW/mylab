@@ -42,3 +42,151 @@
   link: https://doi.org/gmr33f
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/JIOT.2022.3218948
+  title: Improving Information Freshness via Backbone-Assisted Cooperative Access
+    Points
+  authors:
+  - Haoyuan Pan
+  - Yu Zhou
+  - Tse-Tin Chan
+  - Ming Tang
+  - Jianqiang Li
+  - Zhihua Du
+  publisher: IEEE Internet of Things Journal
+  date: '2023-03-01'
+  link: https://doi.org/gsmwxq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMC.2020.3038710
+  title: Online Bitrate Selection for Viewport Adaptive 360-Degree Video Streaming
+  authors:
+  - Ming Tang
+  - Vincent W.S. Wong
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2021-01-01'
+  link: https://doi.org/gnt685
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMC.2020.3036871
+  title: Deep Reinforcement Learning for Task Offloading in Mobile Edge Computing
+    Systems
+  authors:
+  - Ming Tang
+  - Vincent W.S. Wong
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2022-06-01'
+  link: https://doi.org/gm95ff
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TNET.2021.3071488
+  title: "How Do You Earn Money on Live Streaming Platforms?\u2014A Study of Donation-Based\
+    \ Markets"
+  authors:
+  - Ming Tang
+  - Jianwei Huang
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2021-08-01'
+  link: https://doi.org/gpjsrk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MCOM.001.1900354
+  title: Communication, Computation, and Caching Resource Sharing for the Internet
+    of Things
+  authors:
+  - Ming Tang
+  - Lin Gao
+  - Jianwei Huang
+  publisher: IEEE Communications Magazine
+  date: '2020-04-01'
+  link: https://doi.org/ggsk48
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSAC.2018.2874123
+  title: Enabling Edge Cooperation in Tactile Internet via 3C Resource Sharing
+  authors:
+  - Ming Tang
+  - Lin Gao
+  - Jianwei Huang
+  publisher: IEEE Journal on Selected Areas in Communications
+  date: '2018-11-01'
+  link: https://doi.org/gr3n4f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TNET.2018.2859236
+  title: Multi-Dimensional Auction Mechanisms for Crowdsourced Mobile Video Streaming
+  authors:
+  - Ming Tang
+  - Haitian Pang
+  - Shou Wang
+  - Lin Gao
+  - Jianwei Huang
+  - Lifeng Sun
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2018-10-01'
+  link: https://doi.org/gfjm9h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMC.2018.2834358
+  title: 'Multi-User Cooperative Mobile Video Streaming: Performance Analysis and
+    Online Mechanism Design'
+  authors:
+  - Lin Gao
+  - Ming Tang
+  - Haitian Pang
+  - Jianwei Huang
+  - Lifeng Sun
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2019-02-01'
+  link: https://doi.org/gsmwxr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MCOM.2017.1600830
+  title: Optimizations and Economics of Crowdsourced Mobile Streaming
+  authors:
+  - Ming Tang
+  - Lin Gao
+  - Haitian Pang
+  - Jianwei Huang
+  - Lifeng Sun
+  publisher: IEEE Communications Magazine
+  date: '2017-04-01'
+  link: https://doi.org/gsmwxs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2307.14346
+  title: Multi-objective Deep Reinforcement Learning for Mobile Edge Computing
+  authors:
+  - Ning Yang
+  - Junrui Wen
+  - Meng Zhang
+  - Ming Tang
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsmwxt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM.2019.8737362
+  title: "How to Earn Money in Live Streaming Platforms? \u2014 A Study of Donation-Based\
+    \ Markets"
+  authors:
+  - Ming Tang
+  - Jianwei Huang
+  publisher: IEEE INFOCOM 2019 - IEEE Conference on Computer Communications
+  date: '2019-04-01'
+  link: https://doi.org/ghkmhb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM.2017.8057025
+  title: 'MOMD: A multi-object multi-dimensional auction for crowdsourced mobile video
+    streaming'
+  authors:
+  - Ming Tang
+  - Shou Wang
+  - Lin Gao
+  - Jianwei Huang
+  - Lifeng Sun
+  publisher: IEEE INFOCOM 2017 - IEEE Conference on Computer Communications
+  date: '2017-05-01'
+  link: https://doi.org/gsmwxv
+  plugin: sources.py
+  file: sources.yaml
