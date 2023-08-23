@@ -1,0 +1,1 @@
+Sitemap: /mylab/sitemap.xml
