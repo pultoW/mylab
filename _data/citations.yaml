@@ -58,3 +58,15 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/INFOCOM42981.2021.9488705
+  title: 'An Incentive Mechanism for Cross-Silo Federated Learning: A Public Goods
+    Perspective'
+  authors:
+  - Ming Tang
+  - Vincent W.S. Wong
+  publisher: IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
+  date: '2021-05-10'
+  link: https://doi.org/gmr33f
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml
